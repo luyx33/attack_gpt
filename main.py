@@ -744,7 +744,7 @@ def main(arguments):
     #     torch.cuda.set_device(args.cuda)
     #     torch.cuda.manual_seed_all(seed)
     # log.info("Using random seed %d", seed)
-    torch.cuda.set_device(args.cuda)
+    torch.cuda.set_device(args.cuda) 
 
     # Load tasks #
     log.info("Loading tasks...")

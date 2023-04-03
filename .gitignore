@@ -1,0 +1,6 @@
+# this is .gitignore file.
+# 以下是忽略的文件
+ThirdParty_code/text_classification/data/
+ThirdParty_code/text_classification/huggingface/
+ThirdParty_code/text_classification/language_tool_data/
+glue_data/
